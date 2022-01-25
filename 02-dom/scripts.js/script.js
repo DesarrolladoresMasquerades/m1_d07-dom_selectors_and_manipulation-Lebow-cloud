@@ -29,6 +29,7 @@ actionButton.addEventListener(
        const inputToDo = document.querySelector("[name='to-do-item']")
        console.log(inputToDo.value)
        addToDoItem(inputToDo.value)
+       inputToDo.focus()
        inputToDo.value = ""
     }
 )
