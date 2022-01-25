@@ -1,0 +1,23 @@
+:root{
+    font-size: 16px;
+}
+
+
+
+.main-title {
+    color:bisque;
+    background-color: cornflowerblue;
+}
+
+
+
+.main-subtitle{
+    color: rgb(96, 146, 212);
+}
+
+.action-button{
+    background-color: chartreuse;
+    border: none;
+    border-radius: 5px;
+}
+
